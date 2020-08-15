@@ -1,4 +1,4 @@
-// https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/
+package TwoPointers;// https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/
 import java.util.ArrayList;
 
 public class MergeIntegerArrays {
